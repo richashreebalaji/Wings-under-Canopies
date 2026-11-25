@@ -39,19 +39,25 @@ The Coppersmith Barbet was selected because of its dependence on trees for nesti
 
 | 2018 | 2023 |
 | --- | --- |
-| ![2018](maps/hesaraghatta-2018.png) | ![2023](maps/hesaraghatta-2023.png) |
+| ![2018]<img width="3507" height="2480" alt="hesar_map-2018" src="https://github.com/user-attachments/assets/dfa366ef-bed6-494d-8530-248dec8ee15e" />
+ | ![2023]<img width="3507" height="2480" alt="hesar_map_2023" src="https://github.com/user-attachments/assets/e0cb80d2-d944-47fb-b1d1-90c769e8713e" />
+|
 
 ### Avalahalli State Forest
 
 | 2018 | 2023 |
 | --- | --- |
-| ![2018](maps/avalahalli-2018.png) | ![2023](maps/avalahalli-2023.png) |
+| ![2018]<img width="3507" height="2480" alt="avalahllI-2018" src="https://github.com/user-attachments/assets/2f11afa6-f52e-40d1-8adc-7ee5153f053a" />
+ | ![2023]<img width="3507" height="2480" alt="avalahlli_2023" src="https://github.com/user-attachments/assets/257390ac-4e71-4ac3-9f8f-ecf7435b0d1e" />
+ |
 
 ### GKVK Campus
 
 | 2018 | 2023 |
 | --- | --- |
-| ![2018](maps/gkvk-2018.png) | ![2023](maps/gkvk-2023.png) |
+| ![2018]<img width="3507" height="2480" alt="gkvk_map_2018" src="https://github.com/user-attachments/assets/faf72727-6426-4f43-b5d2-dade4fab017f" />
+ | ![2023]<img width="3507" height="2480" alt="GKVK_map_2024" src="https://github.com/user-attachments/assets/b16f7bc2-9250-4c12-8d33-0bd22c72d638" />
+ |
 
 ## Preliminary Findings
 
